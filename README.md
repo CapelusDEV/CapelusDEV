@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://github.com/CapelusDEV/CapelusDEV/blob/main/profile.gif" alt="Hi, I'm Carles 👋">
+</p>
 ## Hi there 👋
 
 
