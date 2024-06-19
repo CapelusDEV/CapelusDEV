@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on Institut Tecnològic de Barcelona as Programming and 3D Modelling Teacher
 - 🌱 I’m currently learning Git Technology on a MasterClass teached by Raimon Izard
+- 🎧 I'm passionate about music, (special mention to metal). I love singing and playing guitar and piano
 
   This are some of the tecnologies I work with...
 <p>
